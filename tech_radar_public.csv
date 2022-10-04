@@ -1,49 +1,49 @@
 ﻿name,ring,quadrant,isNew,description
-The streaming data warehouse,adopt,Techniques,TRUE,NA
-TinyML,assess,Techniques,TRUE,NA
-Azure Data Factory for orchestration,hold,Techniques,FALSE,NA
-Production data in test environments,hold,Techniques,FALSE,NA
-Azure DevOps,adopt,Platforms,FALSE,NA
-Azure Pipeline templates,trial,Platforms,TRUE,NA
-Google BigQuery ML,adopt,Platforms,FALSE,NA
-Google Cloud Dataflow,adopt,Platforms,FALSE,NA
-VerneMQ,assess,Platforms,TRUE,NA
-Apache Iceberg,assess,Platforms,TRUE,NA
-Colima,assess,Platforms,TRUE,NA
-Collibra,assess,Platforms,TRUE,NA
-CycloneDX,assess,Platforms,TRUE,NA
-AKHQ,assess,Tools,TRUE,NA
-Metaflow,assess,Tools,TRUE,NA
-SQLFluff,assess,Tools,TRUE,NA
-Typesense,assess,Tools,TRUE,NA
-Java 17,assess,languages-and-frameworks,TRUE,NA
-MistQL,assess,languages-and-frameworks,TRUE,NA
-ShedLock,assess,languages-and-frameworks,TRUE,NA
-SpiceDB,assess,languages-and-frameworks,TRUE,NA
-sqlc,assess,languages-and-frameworks,TRUE,NA
-Python,adopt,languages-and-frameworks,FALSE,NA
-Numpy,adopt,languages-and-frameworks,FALSE,NA
-Spark,trial,Tools,FALSE,NA
-AWS,adopt,Platforms,FALSE,NA
-SQS,adopt,Tools,FALSE,NA
-S3,adopt,Tools,FALSE,NA
-Snowflake,adopt,Platforms,FALSE,NA
-Linear Regression,adopt,Techniques,FALSE,NA
-Random Forest,adopt,Techniques,FALSE,NA
-Gradient Boost,adopt,Techniques,FALSE,NA
-Airflow,adopt,Platforms,FALSE,NA
-GCP,adopt,Platforms,FALSE,NA
-Google Composer,adopt,Platforms,FALSE,NA
-Google PubSub,adopt,Platforms,FALSE,NA
-Tensorflow,adopt,languages-and-frameworks,FALSE,NA
-Keras,adopt,languages-and-frameworks,FALSE,NA
-TensorRT,adopt,Platforms,FALSE,NA
-Redis,adopt,Tools,FALSE,NA
-DeepLearning,adopt,Techniques,FALSE,NA
-Pandas,adopt,languages-and-frameworks,FALSE,NA
-Numpy,adopt,languages-and-frameworks,FALSE,NA
-Scala,adopt,languages-and-frameworks,FALSE,NA
-Zeppelin,adopt,Tools,FALSE,NA
-EMR,adopt,Tools,FALSE,NA
-Coveo,trial,Platforms,TRUE,NA
-Informatica,trial,Platforms,TRUE,NA
+The streaming data warehouse,adopt,Techniques,TRUE,<p>NA</p>
+TinyML,assess,Techniques,TRUE,<p>NA</p>
+Azure Data Factory for orchestration,hold,Techniques,FALSE,<p>NA</p>
+Production data in test environments,hold,Techniques,FALSE,<p>NA</p>
+Azure DevOps,adopt,Platforms,FALSE,<p>NA</p>
+Azure Pipeline templates,trial,Platforms,TRUE,<p>NA</p>
+Google BigQuery ML,adopt,Platforms,FALSE,<p>NA</p>
+Google Cloud Dataflow,adopt,Platforms,FALSE,<p>NA</p>
+VerneMQ,assess,Platforms,TRUE,<p>NA</p>
+Apache Iceberg,assess,Platforms,TRUE,<p>NA</p>
+Colima,assess,Platforms,TRUE,<p>NA</p>
+Collibra,assess,Platforms,TRUE,<p>NA</p>
+CycloneDX,assess,Platforms,TRUE,<p>NA</p>
+AKHQ,assess,Tools,TRUE,<p>NA</p>
+Metaflow,assess,Tools,TRUE,<p>NA</p>
+SQLFluff,assess,Tools,TRUE,<p>NA</p>
+Typesense,assess,Tools,TRUE,<p>NA</p>
+Java 17,assess,languages-and-frameworks,TRUE,<p>NA</p>
+MistQL,assess,languages-and-frameworks,TRUE,<p>NA</p>
+ShedLock,assess,languages-and-frameworks,TRUE,<p>NA</p>
+SpiceDB,assess,languages-and-frameworks,TRUE,<p>NA</p>
+sqlc,assess,languages-and-frameworks,TRUE,<p>NA</p>
+Python,adopt,languages-and-frameworks,FALSE,<p>NA</p>
+Numpy,adopt,languages-and-frameworks,FALSE,<p>NA</p>
+Spark,trial,Tools,FALSE,<p>NA</p>
+AWS,adopt,Platforms,FALSE,<p>NA</p>
+SQS,adopt,Tools,FALSE,<p>NA</p>
+S3,adopt,Tools,FALSE,<p>NA</p>
+Snowflake,adopt,Platforms,FALSE,<p>NA</p>
+Linear Regression,adopt,Techniques,FALSE,<p>NA</p>
+Random Forest,adopt,Techniques,FALSE,<p>NA</p>
+Gradient Boost,adopt,Techniques,FALSE,<p>NA</p>
+Airflow,adopt,Platforms,FALSE,<p>NA</p>
+GCP,adopt,Platforms,FALSE,<p>NA</p>
+Google Composer,adopt,Platforms,FALSE,<p>NA</p>
+Google PubSub,adopt,Platforms,FALSE,<p>NA</p>
+Tensorflow,adopt,languages-and-frameworks,FALSE,<p>NA</p>
+Keras,adopt,languages-and-frameworks,FALSE,<p>NA</p>
+TensorRT,adopt,Platforms,FALSE,<p>NA</p>
+Redis,adopt,Tools,FALSE,<p>NA</p>
+DeepLearning,adopt,Techniques,FALSE,<p>NA</p>
+Pandas,adopt,languages-and-frameworks,FALSE,<p>NA</p>
+Numpy,adopt,languages-and-frameworks,FALSE,<p>NA</p>
+Scala,adopt,languages-and-frameworks,FALSE,<p>NA</p>
+Zeppelin,adopt,Tools,FALSE,<p>NA</p>
+EMR,adopt,Tools,FALSE,<p>NA</p>
+Coveo,trial,Platforms,TRUE,<p>NA</p>
+Informatica,trial,Platforms,TRUE,<p>NA</p>
